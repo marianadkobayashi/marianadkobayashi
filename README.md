@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Fullstack developer from Portugal!
 
 I have learned to code on a variety of courses, my latest, Le Wagon Bootcamp in which Im still developing my [favorite project](http://www.ibuddyfind.com/), my main coding languages are Ruby(Rails), JavaScript ES6, SQL. I'm fullstack but I tend to lean more to front-end.
