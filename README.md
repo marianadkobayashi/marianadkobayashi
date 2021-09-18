@@ -8,7 +8,7 @@ I have learned to code on a variety of courses, my latest, Le Wagon Bootcamp in 
 👩🏾‍💻 I love tech, building and managing digital products<br>
 🥰 My purpose in life is to make people feel they belong<br>
 
-if you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/marianadkobayashi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/marianadkobayashi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 -----
 
