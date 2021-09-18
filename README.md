@@ -4,9 +4,9 @@ I'm a Fullstack developer from Portugal!
 I have learned to code on a variety of courses, my latest, Le Wagon Bootcamp in which Im still developing my [favorite project](http://www.ibuddyfind.com/), my main coding languages are Ruby(Rails), JavaScript ES6, SQL. I'm fullstack but I tend to lean more to front-end.
 
 🚀 Always learning<br>
-🦄 Ask me about My <strong>projects</strong><br>
+🦄 Ask me about my <strong>projects</strong><br>
 👩🏾‍💻 I love tech, building and managing digital products<br>
-🥰 My purpose is to make people feel they belong<br>
+🥰 My purpose in life is to make people feel they belong<br>
 
 if you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/marianadkobayashi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
