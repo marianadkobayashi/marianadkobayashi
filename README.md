@@ -8,7 +8,7 @@ I have learned to code on a variety of courses, my latest, Le Wagon Bootcamp in 
 👩🏾‍💻 I love tech, building and managing digital products<br>
 🥰 My purpose in life is to make people feel they belong<br>
 
-If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/marianadkobayashi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/marianadkobayashi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 -----
 
@@ -45,8 +45,6 @@ Tools and technologies
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=marianadkobayashi)
 
 <!--
 [![Stargazers repo roster for @marianadkobayashi/marianadkobayashi](https://reporoster.com/stars/marianadkobayashi/marianadkobayashi)](https://github.com/marianadkobayashi/marianadkobayashi/stargazers)
