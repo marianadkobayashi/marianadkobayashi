@@ -1,6 +1,4 @@
 # Hey friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a Fullstack developer from Portugal!
-
 I have learned to code on a variety of courses, my latest a 10-week Full Stack Web Development Bootcamp at Le Wagon. My main coding tools are Ruby (Rails), JavaScript ES6, HTLM, CSS and SQL. I'm Full Stack but I tend to lean more towards front-end.
 
 🚀 Always learning<br>
